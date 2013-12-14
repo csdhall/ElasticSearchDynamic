@@ -1,0 +1,5 @@
+D:\ES\Projects\EsDynamic\ElasticSearch.Net\bin\Debug\ElasticSearch.Net.dll
+D:\ES\Projects\EsDynamic\ElasticSearch.Net\bin\Debug\ElasticSearch.Net.pdb
+D:\ES\Projects\EsDynamic\ElasticSearch.Net\obj\Debug\ElasticSearch.Net.csprojResolveAssemblyReference.cache
+D:\ES\Projects\EsDynamic\ElasticSearch.Net\obj\Debug\ElasticSearch.Net.dll
+D:\ES\Projects\EsDynamic\ElasticSearch.Net\obj\Debug\ElasticSearch.Net.pdb

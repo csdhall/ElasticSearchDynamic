@@ -1,0 +1,7 @@
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\bin\Debug\Test.ElasticSearch.Net.dll
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\bin\Debug\Test.ElasticSearch.Net.pdb
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\obj\Debug\Test.ElasticSearch.Net.csprojResolveAssemblyReference.cache
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\obj\Debug\Test.ElasticSearch.Net.dll
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\obj\Debug\Test.ElasticSearch.Net.pdb
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\bin\Debug\ElasticSearch.Net.dll
+D:\ES\Projects\EsDynamic\Test.ElasticSearch.Net\bin\Debug\ElasticSearch.Net.pdb
